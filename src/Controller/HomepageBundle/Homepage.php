@@ -2,7 +2,6 @@
 
 namespace App\Controller\HomepageBundle;
 
-use Symfony\Component\HttpFoundation\Response;
 use App\Controller\TwigBundle\Templating;
 
 class Homepage

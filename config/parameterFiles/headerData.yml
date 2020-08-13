@@ -1,0 +1,14 @@
+parameters:
+    header_links:
+        -
+            name: Home
+            url: /
+        -
+            name: About
+            url: \#about
+        -
+            name: Services
+            url: \#services
+        -
+            name: Contact
+            url: \#contact

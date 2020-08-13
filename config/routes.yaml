@@ -1,3 +1,7 @@
 index:
     path: /
     controller: App\Controller\HomepageBundle\Homepage::index
+
+header:
+    path: /modules/header
+    controller: App\Controller\Modules\Header::index
