@@ -5,10 +5,10 @@ parameters:
             url: /
         -
             name: About
-            url: \#about
+            url: /#about
         -
             name: Services
-            url: \#services
+            url: /#services
         -
             name: Contact
-            url: \#contact
+            url: /#contact
