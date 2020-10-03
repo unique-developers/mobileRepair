@@ -5,3 +5,7 @@ index:
 header:
     path: /modules/header
     controller: App\Controller\Modules\Header::index
+
+conact:
+    path: /modules/contact
+    controller: App\Controller\Modules\Contact::index
